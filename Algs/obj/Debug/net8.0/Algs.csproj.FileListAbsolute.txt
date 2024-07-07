@@ -1,0 +1,14 @@
+/home/eoncreator/RiderProjects/Algs/Algs/bin/Debug/net8.0/Algs
+/home/eoncreator/RiderProjects/Algs/Algs/bin/Debug/net8.0/Algs.deps.json
+/home/eoncreator/RiderProjects/Algs/Algs/bin/Debug/net8.0/Algs.runtimeconfig.json
+/home/eoncreator/RiderProjects/Algs/Algs/bin/Debug/net8.0/Algs.dll
+/home/eoncreator/RiderProjects/Algs/Algs/bin/Debug/net8.0/Algs.pdb
+/home/eoncreator/RiderProjects/Algs/Algs/obj/Debug/net8.0/Algs.GeneratedMSBuildEditorConfig.editorconfig
+/home/eoncreator/RiderProjects/Algs/Algs/obj/Debug/net8.0/Algs.AssemblyInfoInputs.cache
+/home/eoncreator/RiderProjects/Algs/Algs/obj/Debug/net8.0/Algs.AssemblyInfo.cs
+/home/eoncreator/RiderProjects/Algs/Algs/obj/Debug/net8.0/Algs.csproj.CoreCompileInputs.cache
+/home/eoncreator/RiderProjects/Algs/Algs/obj/Debug/net8.0/Algs.dll
+/home/eoncreator/RiderProjects/Algs/Algs/obj/Debug/net8.0/refint/Algs.dll
+/home/eoncreator/RiderProjects/Algs/Algs/obj/Debug/net8.0/Algs.pdb
+/home/eoncreator/RiderProjects/Algs/Algs/obj/Debug/net8.0/Algs.genruntimeconfig.cache
+/home/eoncreator/RiderProjects/Algs/Algs/obj/Debug/net8.0/ref/Algs.dll
