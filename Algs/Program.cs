@@ -40,8 +40,8 @@ class Program
 
         //Sort.BubbleSort(arr);
         //Sort.SelectionSort(arr);
-        Sort.InsertionSort(arr);
-        
+        //Sort.InsertionSort(arr);
+        QuickSorts.QuickSort(arr);
         Console.WriteLine("Sorted:");
         foreach (var item in arr)
         {

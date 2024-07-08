@@ -12,3 +12,4 @@
 /home/eoncreator/RiderProjects/Algs/Algs/obj/Debug/net8.0/Algs.pdb
 /home/eoncreator/RiderProjects/Algs/Algs/obj/Debug/net8.0/Algs.genruntimeconfig.cache
 /home/eoncreator/RiderProjects/Algs/Algs/obj/Debug/net8.0/ref/Algs.dll
+/home/eoncreator/RiderProjects/Algs/Algs/obj/Debug/net8.0/Algs.sourcelink.json
